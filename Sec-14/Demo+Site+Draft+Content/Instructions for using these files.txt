@@ -1,0 +1,4 @@
+1. Install an instance of WordPress in Local by Flywheel and give the site a name that reflects the demo site you are about to build, e.g. blog, business, or hybrid.
+2. Carry out the initial WordPress setup shown in the previous video in this course.  This will give you a blank site ready for your to start building.
+3. Import the content from the relevant XML file, as shown in the video.
+4. Follow along with the relevant site build video.
